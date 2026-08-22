@@ -16,7 +16,7 @@ This project simulates a multi-site enterprise Wide Area Network (WAN) interconn
 ---
 
 ## 🗺️ Network Topology Diagram
-Screenshot 2026-08-22 055340
+Screenshot 2026-08-22 055340.png
 
 ## ⚙️ Key Configuration Implementation
 
