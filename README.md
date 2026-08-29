@@ -16,7 +16,7 @@ This project simulates a multi-site enterprise Wide Area Network (WAN) interconn
 ---
 
 ## 🗺️ Network Topology Diagram
-(C:\Users\sakhi\Downloads\g pic/ASED.jpeg)
+![Topology Diagram](https://raw.githubusercontent.com/fiaz443/cisco-enterprise-wan_ospf_routing-lab/main/AESD.jpeg)
 
 ## ⚙️ Key Configuration Implementation
 
